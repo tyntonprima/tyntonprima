@@ -11,17 +11,6 @@
 
 ---
 
-
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tyntonprima&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyntonprima&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
 ### 📫 Hubungi Saya
 ![https://www.linkedin.com/in/tynton-prima-kusuma-wardhana-041628290/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.linkedin.com/in/tyntonprima/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
